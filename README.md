@@ -27,24 +27,6 @@ $ cd simplefolio
 $ git remote remove origin
 ```
 
-Then you can install the dependencies either using NPM:
-
-## Using NPM:
-```bash
-# Install dependencies
-$ npm install
-
-# Start development server
-$ npm start
-```
-
-**NOTE**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
-
-## Deployment 📦
-Once you have done with your setup. You need to put your website online!
-I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
-
-
 ## Technologies used 🛠️
 - [Webpack](https://webpack.js.org/concepts/) - Static module bundler
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-end component library
