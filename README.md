@@ -2,16 +2,14 @@
 
 ## Features
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout\
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
+⚡️ Bootstrap v4.3 + Custom SCSS\
 ⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3
+⚡️ Valid HTML5 & CSS3\
 ⚡️ Optimized with Webpack
 
 
 
-## How To Use 🔧
+## How To Use 
 
 From your command line, first clone Simplefolio:
 
@@ -26,7 +24,7 @@ $ cd simplefolio
 $ git remote remove origin
 ```
 
-## Technologies used 🛠️
+## Technologies used 
 - [Webpack](https://webpack.js.org/concepts/) - Static module bundler
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-end component library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
